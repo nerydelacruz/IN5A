@@ -1,5 +1,5 @@
 static_sites:
-  - name: IN5AV
+  - name: IN5A
     source_dir: C:\git\IN5A
     branch: develop
     deploy_on_push: true
